@@ -4,3 +4,4 @@ numpy
 scikit-learn
 streamlit
 matplotlib  # If needed for visualizations
+plotly
