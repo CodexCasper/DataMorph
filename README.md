@@ -18,8 +18,6 @@ Special thanks to the **open-source community** and the developers of the follow
 
 A huge thanks to the **open-source contributors** whose work helped shape this tool! 🚀
 
-
-
 ## Authors
 
 👤 Parth Bindal
@@ -28,12 +26,9 @@ A huge thanks to the **open-source contributors** whose work helped shape this t
 
 🔗 https://www.linkedin.com/in/parth-bindal/
 
-🔗https://github.com/CodexCasper
-
-
+🔗 https://github.com/CodexCasper
 
 ## Features
-  
 
 ✅ **Upload & Process CSV Files** – Users can upload CSV files, and the tool automatically cleans, preprocesses, and transforms the data.  
 
@@ -51,27 +46,16 @@ A huge thanks to the **open-source contributors** whose work helped shape this t
 
 📡 **Live Deployment** – Hosted on **Streamlit Cloud**, allowing real-time access from any device.  
 
-
-
-
-##📜License
+## License
 
 This project is licensed under the **MIT License** – see the [LICENSE](./LICENSE) file for details.  
 
+## 📸 Screenshots
 
-
-
-##  📸Screenshots
- 
 Here are some screenshots of the tool in action:  
 
 ![Home Page](path/to/homepage_screenshot.png)  
-  
 
 ![Data Upload](path/to/upload_screenshot.png)  
- 
 
 ![Processed Data](path/to/processed_data_screenshot.png)  
-  
-
-
