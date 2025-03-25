@@ -52,13 +52,20 @@ This project is licensed under the **MIT License** – see the [LICENSE](./LICEN
 
 ## 📸 Screenshots
   
-![Home Page](./screenshots/Screenshot_2025-03-25_095748.png)  
+## 📸 Screenshots
 
-![Data Upload](./screenshots/Screenshot_2025-03-25_100111.png)  
+### Home Page
+![Home Page](./screenshot/1.png)
 
-![Processed Data](./screenshots/Screenshot_2025-03-25_215834.png)  
+### Data Upload
+![Data Upload](./screenshots/Screenshot_2025-03-25_100111.png)
 
-![Data Visualization](./screenshots/Screenshot_2025-03-25_215853.png)  
+### Processed Data
+![Processed Data](./screenshots/Screenshot_2025-03-25_215834.png)
 
-![Download Processed Data](./screenshots/Screenshot_2025-03-25_220003.png)  
-  
+### Data Visualization
+![Data Visualization](./screenshots/Screenshot_2025-03-25_215853.png)
+
+### Download Processed Data
+![Download Processed Data](./screenshots/Screenshot_2025-03-25_220003.png)
+
