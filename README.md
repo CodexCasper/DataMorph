@@ -56,14 +56,14 @@ This project is licensed under the **MIT License** – see the [LICENSE](./LICEN
 ![Home Page](./screenshot/1.png)
 
 ### Data Upload
-![Data Upload](./screenshots/2.png)
+![Data Upload](./screenshot/2.png)
 
 ### Processed Data
-![Processed Data](./screenshots/4.png)
+![Processed Data](./screenshot/4.png)
 
 ### Data Visualization
-![Data Visualization](./screenshots/5.png,./screenshots/6.png)
+![Data Visualization](./screenshot/5.png,./screenshot/6.png)
 
 ### Download Processed Data
-![Download Processed Data](./screenshots/7.png)
+![Download Processed Data](./screenshot/7.png)
 
