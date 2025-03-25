@@ -18,6 +18,11 @@ Special thanks to the **open-source community** and the developers of the follow
 
 A huge thanks to the **open-source contributors** whose work helped shape this tool! 🚀
 
+
+## Deployment
+
+🌐 **Live Demo**: [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://datamorph.streamlit.app/)
+
 ## Authors
 
 👤 Parth Bindal
