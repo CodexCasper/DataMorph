@@ -51,21 +51,19 @@ A huge thanks to the **open-source contributors** whose work helped shape this t
 This project is licensed under the **MIT License** – see the [LICENSE](./LICENSE) file for details.  
 
 ## 📸 Screenshots
-  
-## 📸 Screenshots
 
 ### Home Page
 ![Home Page](./screenshot/1.png)
 
 ### Data Upload
-![Data Upload](./screenshots/Screenshot_2025-03-25_100111.png)
+![Data Upload](./screenshots/2.png)
 
 ### Processed Data
-![Processed Data](./screenshots/Screenshot_2025-03-25_215834.png)
+![Processed Data](./screenshots/4.png)
 
 ### Data Visualization
-![Data Visualization](./screenshots/Screenshot_2025-03-25_215853.png)
+![Data Visualization](./screenshots/5.png,./screenshots/6.png)
 
 ### Download Processed Data
-![Download Processed Data](./screenshots/Screenshot_2025-03-25_220003.png)
+![Download Processed Data](./screenshots/7.png)
 
