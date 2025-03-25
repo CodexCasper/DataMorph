@@ -62,7 +62,7 @@ This project is licensed under the **MIT License** – see the [LICENSE](./LICEN
 ![Processed Data](./screenshot/4.png)
 
 ### Data Visualization
-![Data Visualization](./screenshot/5.png,./screenshot/6.png)
+![Data Visualization](./screenshot/5.png),(./screenshot/6.png)
 
 ### Download Processed Data
 ![Download Processed Data](./screenshot/7.png)
