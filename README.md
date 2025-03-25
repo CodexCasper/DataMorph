@@ -51,11 +51,14 @@ A huge thanks to the **open-source contributors** whose work helped shape this t
 This project is licensed under the **MIT License** – see the [LICENSE](./LICENSE) file for details.  
 
 ## 📸 Screenshots
+  
+![Home Page](r"C:\Users\parth\OneDrive\Pictures\Screenshots\Screenshot 2025-03-25 095748.png")  
 
-Here are some screenshots of the tool in action:  
+![Data Upload](r"C:\Users\parth\OneDrive\Pictures\Screenshots\Screenshot 2025-03-25 100111.png")  
 
-![Home Page](path/to/homepage_screenshot.png)  
+![Processed Data](r"C:\Users\parth\OneDrive\Pictures\Screenshots\Screenshot 2025-03-25 215834.png")  
 
-![Data Upload](path/to/upload_screenshot.png)  
+![Data Visualization](r"C:\Users\parth\OneDrive\Pictures\Screenshots\Screenshot 2025-03-25 215853.png",r"C:\Users\parth\OneDrive\Pictures\Screenshots\Screenshot 2025-03-25 215920.png")    
 
-![Processed Data](path/to/processed_data_screenshot.png)  
+![Download Processed Data](r"C:\Users\parth\OneDrive\Pictures\Screenshots\Screenshot 2025-03-25 220003.png")  
+  
