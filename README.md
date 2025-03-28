@@ -1,6 +1,6 @@
 # 🔍 DataMorph - Data Preprocessing & Visualization Tool
 
-🚀 **An AI-powered tool for seamless data cleaning, preprocessing, and visualization.**  
+🚀 **An AI-powered tool for seamless data cleaning, preprocessing, and visualization.** 
 
 Effortlessly **upload, clean, visualize, and download** preprocessed datasets, making machine learning pipelines smoother.
 
